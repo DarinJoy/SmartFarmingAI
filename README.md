@@ -45,6 +45,10 @@ venv\Scripts\activate     # On Windows
 pip install -r requirements.txt
 ```
 
+If you still encounter with issues of library, use the below code in terminal
+```bash
+pip install streamlit numpy pandas pickle
+```
 ## 4. Place the Trained Models
 Ensure the trained machine learning models (`crop_model.pkl` and `fertilizer_model.pkl`) are inside the `models/` directory.  
 
