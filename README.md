@@ -26,7 +26,7 @@
 
 ## 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/smart-farming-ai.git
+git clone https://github.com/DarinJoy/SmartFarmingAI.git
 cd smart-farming-ai
 ```
 OR
